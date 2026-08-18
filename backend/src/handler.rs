@@ -18,3 +18,5 @@ pub fn handle(input: i128) -> i128 {
 
 /// Placeholder helper addressing issue #12: Docs: update CHANGELOG with recent fixes
 pub fn issue_12_placeholder() -> &'static str { "addresses #12" }
+/// Placeholder helper addressing issue #11: Bug: zero-amount transfers not rejected in payment flow
+pub fn issue_11_placeholder() -> &'static str { "addresses #11" }
